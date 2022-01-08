@@ -103,7 +103,9 @@ In each study, we conducted mainly three kinds of analyses; "Analysis 1", "Analy
 - tidyverse: 1.3.0
 
   
-## Authors of This README File
+## Authors of This Repository
+<!-- 
 If you have any questions, please email at hiromichi.h gmail.com (please replace with @).
 - [Hiromichi Hagihara](https://github.com/hagi-hara)
 - [Hiroki Yamamoto](https://github.com/dororo1225)
+-->
