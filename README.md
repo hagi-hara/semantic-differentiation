@@ -56,7 +56,7 @@ In each study, we conducted mainly three kinds of analyses; "Analysis 1", "Analy
 | TrialOrder      |quantitative (integer)   | Order of the trial (1 - 16)                                             |
 | Condition       |qualitative              | Condition of the trial ("Match", "Mis", "ObjAbs", or "ObjDiff")         |
 | Object          |qualitative              | Target object used in the trial ("cup" or "shoe")                       |
-| CorrectSide     |qualitative              | Position of the target object ("left" or "right")                       |
+| CorrectSide     |qualitative              | Position of the correct stimulus ("left" or "right")                    |
 | Pointing_Right  |quantitative (binary)    | Participants' pointing response (Leftt=0; Right=1)                      |
 | Correct_Pointing|quantitative (binary)    | Whether or not the participant pointed to the correct stimulus          |
 | PropLook_Correct|quantitative (continuous)| Proportion of time that the participant looked at the correct stimulus  |
@@ -78,7 +78,7 @@ In each study, we conducted mainly three kinds of analyses; "Analysis 1", "Analy
 | time            |quantitative (integer)   | Number of times of data collection (1 or 2)                              |
 | Condition       |qualitative              | Condition of the trial ("Match", "Mis", "ObjAbs", or "ObjDiff")          |
 | Object          |qualitative              | Target object used in the trial ("cup" or "shoe")                        |
-| CorrectSide     |qualitative              | Position of the target object ("left" or "right")                        |
+| CorrectSide     |qualitative              | Position of the correct stimulus ("left" or "right")                     |
 | Pointing_Right  |quantitative (binary)    | Participants' pointing response (Left=0; Right=1)                        |
 | Correct_Pointing|quantitative (binary)    | Whether or not the participant pointed to the correct stimulus           |
 | PropLook_Correct|quantitative (continuous)| Proportion of time that the participant looked at the correct stimulus   |
