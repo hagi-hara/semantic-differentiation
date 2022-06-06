@@ -4,7 +4,7 @@ Semantic Differentiation of Early Object Words
 ## Overview
 This repository includes the experimental stimuli, stan codes, graphing codes, and dataset for the following paper:
 
-Hagihara, H., Yamamoto, H., Moriguchi, Y., & Sakagami, M. (2022). When “shoe” becomes free from “putting on”: The link between early meanings of object words and object-specific actions. *Cognition*. [Accepted]
+Hagihara, H., Yamamoto, H., Moriguchi, Y., & Sakagami, M. (2022). When “shoe” becomes free from “putting on”: The link between early meanings of object words and object-specific actions. *Cognition*, *226*, 105177. https://doi.org/10.1016/j.cognition.2022.105177
 
 ## Description
 This repository consists of three folders, "**ExperimentalStimuli**," "**Study1**," and "**Study2**." The folders "Study1" and "Study2" correspond to codes for the cross-sectional study (Study 1), and codes longitudinal study (Study 2), respectively. Each of "Study1" or "study2" contains a csv file "data\_(study name).csv_", R codes, and a folder "Models", which contains Stan codes.
